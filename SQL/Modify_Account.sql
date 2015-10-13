@@ -1,0 +1,2 @@
+ALTER TABLE `account`
+	ADD COLUMN `dp_balance` INT UNSIGNED NOT NULL DEFAULT '0';
